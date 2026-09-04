@@ -1,0 +1,23 @@
+code,forename,surname,constructor_name,driver_points_after,champion_probability,champion_probability_pct
+ANT,Andrea Kimi,Antonelli,Mercedes,242.0,0.8394669509225039,83.9
+RUS,George,Russell,Mercedes,183.0,0.14545161678008955,14.5
+HAM,Lewis,Hamilton,Ferrari,183.0,0.011354444301746876,1.1
+NOR,Lando,Norris,McLaren,159.0,0.0025604918043053565,0.3
+LEC,Charles,Leclerc,Ferrari,155.0,0.0011664961913542187,0.1
+PIA,Oscar,Piastri,McLaren,104.0,0.0,0.0
+LAW,Liam,Lawson,Red Bull,49.0,0.0,0.0
+HUL,Nico,Hülkenberg,Audi,6.0,0.0,0.0
+ALO,Fernando,Alonso,Aston Martin,3.0,0.0,0.0
+GAS,Pierre,Gasly,Alpine F1 Team,44.0,0.0,0.0
+TSU,Yuki,Tsunoda,RB F1 Team,0.0,0.0,0.0
+LIN,Arvid,Lindblad,RB F1 Team,23.0,0.0,0.0
+BOR,Gabriel,Bortoleto,Audi,10.0,0.0,0.0
+COL,Franco,Colapinto,Alpine F1 Team,19.0,0.0,0.0
+PER,Sergio,Pérez,Cadillac,0.0,0.0,0.0
+SAI,Carlos,Sainz,Williams,6.0,0.0,0.0
+ALB,Alexander,Albon,Williams,5.0,0.0,0.0
+BOT,Valtteri,Bottas,Cadillac,0.0,0.0,0.0
+OCO,Esteban,Ocon,Haas F1 Team,3.0,0.0,0.0
+STR,Lance,Stroll,Aston Martin,0.0,0.0,0.0
+BEA,Oliver,Bearman,Haas F1 Team,18.0,0.0,0.0
+VER,Max,Verstappen,Red Bull,112.0,0.0,0.0
